@@ -1,0 +1,3 @@
+SenhaDio
+
+Is ou Is not serve para verificar se as variaveis ou o que está sendo comparado ocupam a mesma regiao de memoria, ou seja, se tem o mesmo valor
