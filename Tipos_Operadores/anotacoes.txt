@@ -22,3 +22,9 @@ end=" ", forço a dar espaço no final, sem imprimir pulando linha.
  .rstrip() - remove espaço em branco da direita
  .center(10, "#") - centraliza o texto utilizando 10 caracteres utilizando "#"
  "-".join(palavra) - escreve letra a letra e colocando entre elas o "-"
+
+------------Interpolação de variaveis--------------------
+
+ %s - valores do tipo string
+ %f - valores do tipo flutuante
+ %d - valores do tipo inteiro
