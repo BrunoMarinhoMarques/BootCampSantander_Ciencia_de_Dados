@@ -6,6 +6,19 @@ operador de identidade is verifica se é o mesmo objeto na memória
 
 operador de associação in verifica se o valor está dentro de determinada coleção, lista, tupla e etc...
 
-função range recebe 3 argumentos: start(opcional), stop(obrigatorio e step(opcional)
+função range recebe 3 argumentos: start(opcional), stop(obrigatorio) e step(opcional)
 
 end=" ", forço a dar espaço no final, sem imprimir pulando linha.
+
+
+
+-------------Manipulando Strings------------------------
+
+ .upper() - tudo maiusculo
+ .lower() - tudo minusculo
+ .title() - primeira letra maiuscula e o restante minuscula
+ .strip() - remove espaço em branco da esquerda e direita
+ .lstrip() - remove espaço em branco da esquerda
+ .rstrip() - remove espaço em branco da direita
+ .center(10, "#") - centraliza o texto utilizando 10 caracteres utilizando "#"
+ "-".join(palavra) - escreve letra a letra e colocando entre elas o "-"
