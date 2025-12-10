@@ -5,3 +5,7 @@ Is ou Is not serve para verificar se as variaveis ou o que está sendo comparado
 operador de identidade is verifica se é o mesmo objeto na memória
 
 operador de associação in verifica se o valor está dentro de determinada coleção, lista, tupla e etc...
+
+função range recebe 3 argumentos: start(opcional), stop(obrigatorio e step(opcional)
+
+end=" ", forço a dar espaço no final, sem imprimir pulando linha.
